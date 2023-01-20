@@ -1,0 +1,6 @@
+hostname
+uptime
+echo ________________
+cat .bashrc
+echo ________________
+cat /home/dantas/.bashrc
