@@ -65,5 +65,3 @@ echo "" >> $caminho
 echo "" >> $caminho
 echo "" >> $caminho
 echo "" >> $caminho
-
-
